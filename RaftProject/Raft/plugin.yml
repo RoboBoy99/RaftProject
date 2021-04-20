@@ -1,0 +1,5 @@
+name: Raft
+version: 1.0
+main: me.RoboBoy99.Raft.Raft
+commands:
+  Raft:
